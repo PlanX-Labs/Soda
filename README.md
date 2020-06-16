@@ -2,7 +2,7 @@
 Soda is a very simple operating system based on Raspbian for learning IoT edge programming.
 
 ## image
-- [v1.2](https://drive.google.com/open?id=17nt70mWATYzEGqmH4deJYjCeMvhI8KXj)
+- [v1.2.4](https://drive.google.com/file/d/1MOgH1RgA2VneLI8kLC07-q_2amYQoyNC/view?usp=sharing)
 - Support Raspberry Pi 4<br><br>
 
 ### Serial Terminal Setting. Proceed only for the users you really need.
