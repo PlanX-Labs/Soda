@@ -2,7 +2,7 @@
 Soda is a very simple operating system for learning AIoT edge computing.
 
 ## image
-- [v1.6.0](https://drive.google.com/file/d/1i4pmWHF17gorgzDj0TkBrstVvLbi9YYP/view?usp=sharing)
+- [201027]https://drive.google.com/file/d/1_yOeFD2OpuNj6HW1ZVtACAOsiLH7O8mh/view?usp=sharing
 - Upgrade soda library & bug fix<br><br>
 
 ## host tools
